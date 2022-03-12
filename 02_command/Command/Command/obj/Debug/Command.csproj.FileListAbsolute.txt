@@ -1,0 +1,11 @@
+D:\study\sem2\СSH\2\Command\Command\Command\obj\Debug\Command.csproj.AssemblyReference.cache
+D:\study\sem2\СSH\2\Command\Command\Command\obj\Debug\Command.csproj.SuggestedBindingRedirects.cache
+D:\study\sem2\СSH\2\Command\Command\Command\obj\Debug\Command.SportsmenCommandMainForm.resources
+D:\study\sem2\СSH\2\Command\Command\Command\obj\Debug\Command.Properties.Resources.resources
+D:\study\sem2\СSH\2\Command\Command\Command\obj\Debug\Command.csproj.GenerateResource.cache
+D:\study\sem2\СSH\2\Command\Command\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+D:\study\sem2\СSH\2\Command\Command\Command\bin\Debug\Command.exe.config
+D:\study\sem2\СSH\2\Command\Command\Command\bin\Debug\Command.exe
+D:\study\sem2\СSH\2\Command\Command\Command\bin\Debug\Command.pdb
+D:\study\sem2\СSH\2\Command\Command\Command\obj\Debug\Command.exe
+D:\study\sem2\СSH\2\Command\Command\Command\obj\Debug\Command.pdb
