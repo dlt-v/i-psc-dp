@@ -1,0 +1,76 @@
+C:\Users\damia\OneDrive\Pulpit\Matrixes\Matrixes\bin\Debug\Matrixes.exe.config
+C:\Users\damia\OneDrive\Pulpit\Matrixes\Matrixes\bin\Debug\Matrixes.exe
+C:\Users\damia\OneDrive\Pulpit\Matrixes\Matrixes\bin\Debug\Matrixes.pdb
+C:\Users\damia\OneDrive\Pulpit\Matrixes\Matrixes\obj\Debug\Matrixes.csproj.AssemblyReference.cache
+C:\Users\damia\OneDrive\Pulpit\Matrixes\Matrixes\obj\Debug\Matrixes.csproj.SuggestedBindingRedirects.cache
+C:\Users\damia\OneDrive\Pulpit\Matrixes\Matrixes\obj\Debug\Matrixes.MatrixForm.resources
+C:\Users\damia\OneDrive\Pulpit\Matrixes\Matrixes\obj\Debug\Matrixes.Properties.Resources.resources
+C:\Users\damia\OneDrive\Pulpit\Matrixes\Matrixes\obj\Debug\Matrixes.csproj.GenerateResource.cache
+C:\Users\damia\OneDrive\Pulpit\Matrixes\Matrixes\obj\Debug\Matrixes.csproj.CoreCompileInputs.cache
+C:\Users\damia\OneDrive\Pulpit\Matrixes\Matrixes\obj\Debug\Matrixes.exe
+C:\Users\damia\OneDrive\Pulpit\Matrixes\Matrixes\obj\Debug\Matrixes.pdb
+C:\Users\hp\Downloads\Matrixes\Matrixes\Matrixes\bin\Debug\Matrixes.exe.config
+C:\Users\hp\Downloads\Matrixes\Matrixes\Matrixes\bin\Debug\Matrixes.exe
+C:\Users\hp\Downloads\Matrixes\Matrixes\Matrixes\bin\Debug\Matrixes.pdb
+C:\Users\hp\Downloads\Matrixes\Matrixes\Matrixes\obj\Debug\Matrixes.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\Matrixes\Matrixes\Matrixes\obj\Debug\Matrixes.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Downloads\Matrixes\Matrixes\Matrixes\obj\Debug\Matrixes.MatrixForm.resources
+C:\Users\hp\Downloads\Matrixes\Matrixes\Matrixes\obj\Debug\Matrixes.Properties.Resources.resources
+C:\Users\hp\Downloads\Matrixes\Matrixes\Matrixes\obj\Debug\Matrixes.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\Matrixes\Matrixes\Matrixes\obj\Debug\Matrixes.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\Matrixes\Matrixes\Matrixes\obj\Debug\Matrixes.exe
+C:\Users\hp\Downloads\Matrixes\Matrixes\Matrixes\obj\Debug\Matrixes.pdb
+C:\Users\natwi\Downloads\Matrixes\Matrixes\bin\Debug\Matrixes.exe.config
+C:\Users\natwi\Downloads\Matrixes\Matrixes\bin\Debug\Matrixes.exe
+C:\Users\natwi\Downloads\Matrixes\Matrixes\bin\Debug\Matrixes.pdb
+C:\Users\natwi\Downloads\Matrixes\Matrixes\obj\Debug\Matrixes.csproj.AssemblyReference.cache
+C:\Users\natwi\Downloads\Matrixes\Matrixes\obj\Debug\Matrixes.csproj.SuggestedBindingRedirects.cache
+C:\Users\natwi\Downloads\Matrixes\Matrixes\obj\Debug\Matrixes.MatrixForm.resources
+C:\Users\natwi\Downloads\Matrixes\Matrixes\obj\Debug\Matrixes.Properties.Resources.resources
+C:\Users\natwi\Downloads\Matrixes\Matrixes\obj\Debug\Matrixes.csproj.GenerateResource.cache
+C:\Users\natwi\Downloads\Matrixes\Matrixes\obj\Debug\Matrixes.csproj.CoreCompileInputs.cache
+C:\Users\natwi\Downloads\Matrixes\Matrixes\obj\Debug\Matrixes.exe
+C:\Users\natwi\Downloads\Matrixes\Matrixes\obj\Debug\Matrixes.pdb
+C:\Users\vpara\Downloads\Matrixes (1) (1)\Matrixes (1)\Matrixes\Matrixes\bin\Debug\Matrixes.exe.config
+C:\Users\vpara\Downloads\Matrixes (1) (1)\Matrixes (1)\Matrixes\Matrixes\bin\Debug\Matrixes.exe
+C:\Users\vpara\Downloads\Matrixes (1) (1)\Matrixes (1)\Matrixes\Matrixes\bin\Debug\Matrixes.pdb
+C:\Users\vpara\Downloads\Matrixes (1) (1)\Matrixes (1)\Matrixes\Matrixes\obj\Debug\Matrixes.csproj.AssemblyReference.cache
+C:\Users\vpara\Downloads\Matrixes (1) (1)\Matrixes (1)\Matrixes\Matrixes\obj\Debug\Matrixes.csproj.SuggestedBindingRedirects.cache
+C:\Users\vpara\Downloads\Matrixes (1) (1)\Matrixes (1)\Matrixes\Matrixes\obj\Debug\Matrixes.MatrixForm.resources
+C:\Users\vpara\Downloads\Matrixes (1) (1)\Matrixes (1)\Matrixes\Matrixes\obj\Debug\Matrixes.Properties.Resources.resources
+C:\Users\vpara\Downloads\Matrixes (1) (1)\Matrixes (1)\Matrixes\Matrixes\obj\Debug\Matrixes.csproj.GenerateResource.cache
+C:\Users\vpara\Downloads\Matrixes (1) (1)\Matrixes (1)\Matrixes\Matrixes\obj\Debug\Matrixes.csproj.CoreCompileInputs.cache
+C:\Users\vpara\Downloads\Matrixes (1) (1)\Matrixes (1)\Matrixes\Matrixes\obj\Debug\Matrixes.exe
+C:\Users\vpara\Downloads\Matrixes (1) (1)\Matrixes (1)\Matrixes\Matrixes\obj\Debug\Matrixes.pdb
+C:\Users\KACPER\Desktop\Matrixes(2)\Matrixes\bin\Debug\Matrixes.exe.config
+C:\Users\KACPER\Desktop\Matrixes(2)\Matrixes\bin\Debug\Matrixes.exe
+C:\Users\KACPER\Desktop\Matrixes(2)\Matrixes\bin\Debug\Matrixes.pdb
+C:\Users\KACPER\Desktop\Matrixes(2)\Matrixes\obj\Debug\Matrixes.csproj.AssemblyReference.cache
+C:\Users\KACPER\Desktop\Matrixes(2)\Matrixes\obj\Debug\Matrixes.MatrixForm.resources
+C:\Users\KACPER\Desktop\Matrixes(2)\Matrixes\obj\Debug\Matrixes.Properties.Resources.resources
+C:\Users\KACPER\Desktop\Matrixes(2)\Matrixes\obj\Debug\Matrixes.csproj.GenerateResource.cache
+C:\Users\KACPER\Desktop\Matrixes(2)\Matrixes\obj\Debug\Matrixes.csproj.CoreCompileInputs.cache
+C:\Users\KACPER\Desktop\Matrixes(2)\Matrixes\obj\Debug\Matrixes.exe
+C:\Users\KACPER\Desktop\Matrixes(2)\Matrixes\obj\Debug\Matrixes.pdb
+C:\Users\vpara\Downloads\Matrixes(2)\Matrixes(2)\Matrixes\bin\Debug\Matrixes.exe.config
+C:\Users\vpara\Downloads\Matrixes(2)\Matrixes(2)\Matrixes\bin\Debug\Matrixes.exe
+C:\Users\vpara\Downloads\Matrixes(2)\Matrixes(2)\Matrixes\bin\Debug\Matrixes.pdb
+C:\Users\vpara\Downloads\Matrixes(2)\Matrixes(2)\Matrixes\obj\Debug\Matrixes.csproj.AssemblyReference.cache
+C:\Users\vpara\Downloads\Matrixes(2)\Matrixes(2)\Matrixes\obj\Debug\Matrixes.csproj.SuggestedBindingRedirects.cache
+C:\Users\vpara\Downloads\Matrixes(2)\Matrixes(2)\Matrixes\obj\Debug\Matrixes.MatrixForm.resources
+C:\Users\vpara\Downloads\Matrixes(2)\Matrixes(2)\Matrixes\obj\Debug\Matrixes.Properties.Resources.resources
+C:\Users\vpara\Downloads\Matrixes(2)\Matrixes(2)\Matrixes\obj\Debug\Matrixes.csproj.GenerateResource.cache
+C:\Users\vpara\Downloads\Matrixes(2)\Matrixes(2)\Matrixes\obj\Debug\Matrixes.csproj.CoreCompileInputs.cache
+C:\Users\vpara\Downloads\Matrixes(2)\Matrixes(2)\Matrixes\obj\Debug\Matrixes.exe
+C:\Users\vpara\Downloads\Matrixes(2)\Matrixes(2)\Matrixes\obj\Debug\Matrixes.pdb
+C:\Users\hp\Desktop\C#\Matrixes(2)\Matrixes(2)\Matrixes\bin\Debug\Matrixes.exe.config
+C:\Users\hp\Desktop\C#\Matrixes(2)\Matrixes(2)\Matrixes\bin\Debug\Matrixes.exe
+C:\Users\hp\Desktop\C#\Matrixes(2)\Matrixes(2)\Matrixes\bin\Debug\Matrixes.pdb
+C:\Users\hp\Desktop\C#\Matrixes(2)\Matrixes(2)\Matrixes\obj\Debug\Matrixes.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C#\Matrixes(2)\Matrixes(2)\Matrixes\obj\Debug\Matrixes.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\C#\Matrixes(2)\Matrixes(2)\Matrixes\obj\Debug\Matrixes.MatrixForm.resources
+C:\Users\hp\Desktop\C#\Matrixes(2)\Matrixes(2)\Matrixes\obj\Debug\Matrixes.Properties.Resources.resources
+C:\Users\hp\Desktop\C#\Matrixes(2)\Matrixes(2)\Matrixes\obj\Debug\Matrixes.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\C#\Matrixes(2)\Matrixes(2)\Matrixes\obj\Debug\Matrixes.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\Matrixes(2)\Matrixes(2)\Matrixes\obj\Debug\Matrixes.exe
+C:\Users\hp\Desktop\C#\Matrixes(2)\Matrixes(2)\Matrixes\obj\Debug\Matrixes.pdb
